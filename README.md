@@ -1,12 +1,33 @@
 # Credit_Risk_Analysis
 
 ## Overview of the analysis: 
-
-Explain the purpose of this analysis.
+The purpose of this analysis is to create models that predict low_risk versus high_risk credit score applications by exploring different resampling methods for logistic regression.
 
 ## Results: 
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+ - Random Oversampling
+ 
+![](images/Roversampling.png)
+
+ - SMOTE Oversampling
+
+![](images/SMOTEoversampling.png)
+
+ - Undersampling
+
+![](images/Undersampling.png)
+
+ - Combination (Over and Under) Sampling - SMOTEENN
+
+![](images/SMOTEENN.png)
+
+ - Balanced Random Forest Classifer
+
+![](images/brfc.png)
+
+ - Easy Ensemble AdaBoost Classifer
+
+![](images/ensemble.png)
 
 ## Summary: 
 
