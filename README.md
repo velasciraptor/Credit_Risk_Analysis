@@ -21,11 +21,11 @@ The purpose of this analysis is to create models that predict low_risk versus hi
 
 ![](images/SMOTEENN.png)
 
- - Balanced Random Forest Classifer: Balanced_accuracy_score = .955, Precision = .99, Recall = .91
+ - Balanced Random Forest Classifer: Balanced_accuracy_score = .789, Precision = .99, Recall = .87
 
 ![](images/brfc.png)
 
- - Easy Ensemble AdaBoost Classifer: Balanced_accuracy_score = .955, Precision = .99, Recall = .91
+ - Easy Ensemble AdaBoost Classifer: Balanced_accuracy_score = .915, Precision = .99, Recall = .90
 
 ![](images/ensemble.png)
 
